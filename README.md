@@ -6,14 +6,14 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 
 # Downloads
 
-# Pre-BattleRoyale
+# Pre-BattleRoyale (DOWN)
 | Build                  	 | Date          	 | Engine Version	    |		    Download links             |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
 | OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	    |		https://public.simplyblk.xyz/OT0.6.5.zip |
 | Cert-CL-3532353                | 20-07-17              | UE4.16-3532353           | N/A |
 | 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		N/A |
 
-# Season 0 & 1
+# Season 0 & 1 (DOWN)
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 1.7.2-CL-3700114        	| 17-10-17      	 | UE4.16-3700114	    |	        https://public.simplyblk.xyz/1.7.2.zip|
@@ -24,7 +24,7 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 1.9.1-CL-3775276        	| 29-11-17       	 | UE4.16-3775276	    |		https://public.simplyblk.xyz/1.9.1.rar|
 | 1.10-CL-3790078	  	| 06-12-17	   	 | UE4.19-3790078	    |		https://public.simplyblk.xyz/1.10.rar|
  
-# Season 2
+# Season 2 (DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ |------------------------------- |
 | 1.11-CL-3807424         	| 14-12-17		 | UE4.19-3807424	    |		https://public.simplyblk.xyz/1.11.zip|
@@ -35,7 +35,7 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		https://public.simplyblk.xyz/2.4.2.zip|
 | 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |	        https://public.simplyblk.xyz/2.5.0.rar|
 
-# Season 3
+# Season 3 (5/6 DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |	https://public.simplyblk.xyz/3.0.zip |
@@ -44,9 +44,9 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://public.simplyblk.xyz/3.2.zip|
 | 3.3-CL-3942182                | 15-03-18               | UE4.20-3942182           | https://public.simplyblk.xyz/3.3.rar|
 | 3.5-CL-4008490          	| 11-04-18       	 | UE4.20-4008490	    | 		https://public.simplyblk.xyz/3.5.rar|
-| 3.6-CL-4019403          	| 24-04-18       	 | UE4.20-4019403	    | 		https://public.simplyblk.xyz/3.6.zip|
+| 3.6-CL-4019403          	| 24-04-18       	 | UE4.20-4019403	    | 		https://builds.eclipsemp.org/3.6.zip|
 
-# Season 4
+# Season 4 DOWN
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 4.0-CL-4039451          	| 02-05-18       	 | UE4.20-4039451	    |		https://public.simplyblk.xyz/4.0.zip|
@@ -56,7 +56,7 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		N/A |
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://public.simplyblk.xyz/4.5.rar|
 
-# Season 5
+# Season 5 DOWN
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 5.00-CL-4204761  	  	| 12-07-18       	 | UE4.21-4204761	    |		https://public.simplyblk.xyz/5.00.rar|
@@ -67,7 +67,7 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://public.simplyblk.xyz/5.40.rar|
 | 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		N/A|
 
-# Season 6
+# Season 6 DOWN
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 6.00-CL-4395664         	| 27-09-18       	 | UE4.21-4395664	    |		https://public.simplyblk.xyz/6.00.rar|
@@ -85,7 +85,7 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 6.30-CL-4573096         	| 13-11-18       	 | UE4.21-4573096	    |		https://public.simplyblk.xyz/6.30.rar|
 | 6.31-CL-4573279      	  	| 27-11-18       	 | UE4.21-4573279	    |		https://public.simplyblk.xyz/6.31.rar|
 
-# Season 7
+# Season 7 (3/4 DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 7.00-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |		https://public.simplyblk.xyz/7.00.rar|
@@ -94,7 +94,7 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		https://public.simplyblk.xyz/7.30.zip|
 | 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		https://public.simplyblk.xyz/7.40.rar|
 
-# Season 8
+# Season 8 (8/9 DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 8.00-CL-5203069	              | 28-02-19         	 | UE4.22            	    |		https://public.simplyblk.xyz/8.00.zip|
@@ -105,9 +105,9 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 8.30-CL-N/A	                | 10-04-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/8.30.rar|
 | 8.40-CL-N/A	                | 17-04-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/8.40.zip|
 | 8.50-CL-6058028	        | 25-04-19       	 | UE4.23            	    |		https://public.simplyblk.xyz/8.50.zip|
-| 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/8.51.rar|
+| 8.51-CL-N/A	                | 02-05-19         	 | UE4.23            	    |		https://public-build-archives-bucket.fluxapp.dev/8.51.zip|
 
-# Season 9
+# Season 9 (7/8 DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 9.00-CL-6337466	              | 09-05-19        	  | UE4.23            	    |		https://public.simplyblk.xyz/9.00.zip|
@@ -117,9 +117,9 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 9.21-CL-6922310	              | 12-06-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/9.21.zip|
 | 9.30-CL-7095426	              | 09-07-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/9.30.zip|
 | 9.40-CL-7315705               | 17-07-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/9.40.zip|
-| 9.41-CL-7609292	              | 23-07-19         	 | UE4.23            	    |		https://public.simplyblk.xyz/9.41.rar|
+| 9.41-CL-7609292	              | 23-07-19         	 | UE4.23            	    |		https://cdn.novafn.dev/9.41.rar|
 
-# Season X/10
+# Season X/10 (5/6 DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 10.00-CL-7704164	             | 01-08-19         	     | UE4.23            |	https://public.simplyblk.xyz/10.00.zip|
@@ -127,15 +127,15 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 10.20-CL-8456527	             | 27-08-19         	     | UE4.23            |	https://public.simplyblk.xyz/10.20.zip|
 | 10.30-CL-N/A	                 | 11-09-19         	     | UE4.23            |		N/A|
 | 10.31-CL-8723043	             | 18-09-19         	     | UE4.23            |	https://public.simplyblk.xyz/10.31.zip|
-| 10.40-CL-9380822           	  | 25-09-19         	     | UE4.23            |		https://public.simplyblk.xyz/10.40.rar|
+| 10.40-CL-9380822           	  | 25-09-19         	     | UE4.23            |		https://cdn.novafn.dev/10.40.7z|
 
-# Season 11
+# Season 11 (DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |
 | ----------------------------- | ---------------- | ------------------- | --------------------------------------- |
 | 11.00-CL-9603448	             | 15-10-19         | UE4.24              |	 https://public.simplyblk.xyz/11.00.zip|
 | 11.31-CL-N/A	                 | N/A         	    | N/A                 |	 https://public.simplyblk.xyz/11.31.rar|
  
-# Season 12
+# Season 12 (DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 12.00-CL-N/A	                | 20-02-20         	 | UE4.24            	    |		https://public.simplyblk.xyz/12.00.rar|
@@ -149,13 +149,13 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 12.60-CL-N/A	                | 20-05-20         	 | UE4.25            	    |		N/A|
 | 12.61-CL-N/A	                | 26-05-20         	 | UE4.25            	    |		https://public.simplyblk.xyz/12.61.zip|
 
-# Season 13
+# Season 13 (DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 13.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		https://public.simplyblk.xyz/13.00.rar|
 | 13.40-CL-14113327	                | 27-09-20         	 | UE4.26            	    |	https://public.simplyblk.xyz/13.40.zip|
 
-# Season 14
+# Season 14 (DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 14.00-CL-N/A	                | 27-09-20         	 | UE4.26            	    |		https://public.simplyblk.xyz/14.00.rar|
@@ -166,7 +166,7 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 14.50-CL-N/A	                | 03-11-20         	 | UE4.26            	    |		N/A|
 | 14.60-CL-14786821           | 18-11-20        	  | UE4.26            	    |		https://public.simplyblk.xyz/14.60.rar|
 
-# Season 15
+# Season 15 (DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 15.00-CL-N/A	                | 02-12-20         	 | UE4.26            	    |		N/A|
@@ -177,7 +177,7 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 15.40-CL-N/A	                | 16-02-21         	 | UE4.26            	    |		N/A|
 | 15.50-CL-N/A	                | 02-03-21         	 | UE4.26            	    |		N/A|
 
-# Season 16
+# Season 16 (DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 16.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
@@ -187,7 +187,7 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 16.40-CL-16218553             | 11-05-21        	 | UE4.26.1           	                    |		https://public.simplyblk.xyz/16.40.rar|
 | 16.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		N/A|
 
-# Season 17
+# Season 17 (DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 17.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
@@ -197,7 +197,7 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 17.40-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
 | 17.50-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		https://public.simplyblk.xyz/17.50.zip|
 
-# Season 18
+# Season 18 (DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 18.00-CL-N/A	                | 16-03-21         	 | UE4.26            	    |		N/A|
@@ -207,12 +207,12 @@ The largest Fortnite Builds Archive maintained by simplyblk.
 | 18.30-CL-N/A             | 11-05-21        	 | UE4.26.1           	                    |		N/A|
 | 18.40-CL-N/A	                | 03-06-22         	 | UE4.26.1            	    |		https://public.simplyblk.xyz/18.40.zip|
 
-# Season 19
+# Season 19 (DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 19.10-CL-N/A	                | N/A         	 | N/A           	    |	 https://public.simplyblk.xyz/19.10.rar|
 
-# Season 20
+# Season 20 (DOWN)
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://public.simplyblk.xyz/20.40.zip|
